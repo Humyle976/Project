@@ -1,0 +1,8 @@
+Setup sfml for windows in order to run spaceshooter program
+
+Open terminal In The Project Directory
+
+Compile using this => g++ main.cpp SpaceShooter.cpp Uno.cpp -o main -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
+
+Run using ./main
+
